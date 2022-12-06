@@ -1,0 +1,147 @@
+commit 358d626b2408ec51a88a64dd2a8c51429ba06166 (HEAD -> main, origin/main, origin/HEAD)
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 23:07:52 2022 -0600
+
+    Added Graph
+
+commit f391744348a7b5c8f95395286405c82c7c5c5c6e
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 15:54:28 2022 -0600
+
+    Overall Canada and US Stock Market
+
+commit 10501bf6a65f1ac250e395ef733a4930198ea931
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 15:50:36 2022 -0600
+
+    Graph of covid and stocks datasets
+
+commit f2fbb7a532f7260fe2a7e288d838683b76e8a9ee
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 15:37:00 2022 -0600
+
+    Merging both COVID-19 and Stock DataFrame
+
+commit 19497e43a5b3cfbbac26798c00da3a51423bd237
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 15:30:07 2022 -0600
+
+    Merging both Canada and US Confirmed & Death Case
+
+commit 5fa8d576d4d481a0b511dd98345f26c79dc875c8
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 15:25:00 2022 -0600
+
+    Creating new dataFrame for covid -19 sets
+
+commit 7fd667a8a065c29db57153eca6e470abd015612a
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 15:13:51 2022 -0600
+
+    Grouping US Confirmed Cases and Resetting Index
+
+commit fc9df9b8bd21721f2a623577fc90ed8230bf3ff4
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 15:12:04 2022 -0600
+
+    #Grouping Canada Confirmed Cases & Resetting Index
+
+commit 44f584838dbe672e48858ac9ac6ce0f8f1e1982c
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 15:10:31 2022 -0600
+
+    Grouping US Death Cases and Resetting Index
+
+commit dc1c0043c6a56134be5de13871e0f0a83638e952
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 15:06:02 2022 -0600
+
+    Grouping Canda Death Cases and Resetting Index
+
+commit e9c25069a5223f8dce5c9d2964c552c7450e6ad7 (Final_project_by_Naveen/main)
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 14:49:07 2022 -0600
+
+    Merging all stocks dataFrame
+
+commit 9e346b3ddb7d981abccb877b6f03b5374abf8d79
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 14:47:07 2022 -0600
+
+    Renaming and accessing only date, daily high & low
+
+commit 6258f461233a5026fa5d7f8159ab0af907837dbb
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 14:30:44 2022 -0600
+
+    Using Access Key to get TS data and reseting index
+
+commit 3e1838e786410c126ea907a738789a7a5e896041
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 13:55:38 2022 -0600
+
+    Adding comments and updating variable names
+
+commit 737ffcd31cba531642ae68c20e10625a95fb5eb4
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 03:03:14 2022 -0600
+
+    T
+
+commit 356b3a70ca4698fcd37e1f8fc8a641ab7ae2ac14
+Author: gupta2930-spt <gupta2930@saskpolytech.ca>
+Date:   Mon Dec 5 03:01:05 2022 -0600
+
+    Commiting
+
+commit df1fa2c700800ae9cfaf8b60c4ec9e8502dc8105
+Merge: 8e80b42 21408d0
+Author: gupta2930-spt <118235146+gupta2930-spt@users.noreply.github.com>
+Date:   Mon Dec 5 02:48:14 2022 -0600
+
+    Merge pull request #1 from AIDA-Saskatchewan-polytechnic/Project
+
+    Update README.md
+
+commit 8e80b42f3b908848b090abab8fa82780a2d8c10d (origin/P, Final_project_by_Naveen/P)
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 02:02:54 2022 -0600
+
+    update README.md
+
+commit 81029b887d8957c584253766dd369ef134a448b7
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 01:57:11 2022 -0600
+
+    merge cases based on state and country
+
+commit 283fc0ba4ce20c3212814aa1c13a2a9fd2c55620
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 01:55:34 2022 -0600
+
+    create total confirm and death cases
+
+commit cc291828d750ead257030edc30b23c9317c41c2e
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 01:50:25 2022 -0600
+
+    import python modules and read csv
+
+commit 21408d06af726b6b5973ef5f2e26076225520a20 (origin/Project, Final_project_by_Naveen/Project)
+Author: gupta2930-spt <118235146+gupta2930-spt@users.noreply.github.com>
+Date:   Mon Dec 5 01:49:13 2022 -0600
+
+    Update README.md
+
+commit 3109febb3eaec86f28bb4f3c9ebeabc2d539b5a7
+Author: NaveenYadavPantham <pantham.naveen@gmail.com>
+Date:   Mon Dec 5 01:21:51 2022 -0600
+
+    update README
+
+commit cf9a673775b7a8546caba5e0e92300e6ea09fc36
+Author: NaveenYadavPantham <116692127+NaveenYadavPantham@users.noreply.github.com>
+Date:   Mon Dec 5 01:00:34 2022 -0600
+
+    Initial commit
+(END)
